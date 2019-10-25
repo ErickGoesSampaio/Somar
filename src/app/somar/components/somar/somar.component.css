@@ -1,0 +1,24 @@
+.texto{
+    height: auto;
+    text-align: right;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size:65px;
+    background-color: #262626;
+    color: white;
+}
+
+.botao{
+	font-weight: bold;
+	font-size: 24px;
+	padding: 8px;
+	border: none;
+	border-radius: 10px;
+	text-align: center;
+	background-color: #EA8A50;
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 1.5px;
+	box-shadow: 0px 2px rgba(0,0,0,0.2);
+}
